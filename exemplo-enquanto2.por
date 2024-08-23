@@ -13,9 +13,9 @@ programa {
 
     condicao = verdadeiro
     faca{
-     escreva("Mensagen dentro do faça-enquanto\n")
+     escreva("Mensagen dentro do faÃ§a-enquanto\n")
      condicao = falso
      } enquanto(condicao)
-    escreva("Fora do Faça-Enquanto\n")
+    escreva("Fora do FaÃ§a-Enquanto\n")
   }
 }
