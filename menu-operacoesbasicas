@@ -33,7 +33,7 @@ programa {
         escreva("Digite o segundo valor: ")
         leia(num2)
         resultado = num1 - num2
-       escreva("A subtração dos valores: ", resultado"\n\n")
+       escreva("A subtração dos valores: ", resultado, "\n\n")
         pare
         caso 3:
         escreva("Você escolheu a opção 3, Multiplicação\n")
@@ -43,7 +43,7 @@ programa {
         escreva("Digite o segundo valor: ")
         leia(num2)
         resultado = num1 * num2
-        escreva("A smultiplicação dos valores: ", resultado"\n\n")
+        escreva("A smultiplicação dos valores: ", resultado, "\n\n")
         pare
         caso 4:
         escreva("Você escolheu a opção 4, Divisão\n")
@@ -53,7 +53,7 @@ programa {
         escreva("Digite o segundo valor: ")
         leia(num2)
         resultado = num1 / num2
-        escreva("A Divisão dos valores: ", resultado"\n\n")
+        escreva("A Divisão dos valores: ", resultado,"\n\n")
         pare  
         caso 5:
         escreva("Você escolheu a opção 5, Resto da divisão\n")
@@ -63,7 +63,7 @@ programa {
         escreva("Digite o segundo valor: ")
         leia(num2)
         resultado = num1 % num2
-        escreva("O resto da divisão dos valores: ", resultado"\n\n")
+        escreva("O resto da divisão dos valores: ", resultado,"\n\n")
         pare     
         caso 6:
         escreva("Saindo...\n")
